@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Green",
+        "details": "treat bloating, allergies, acne and promote weight loss",
+        "img": "images/tea-cup-green-leafs.png"
+    },
+    {
+        "id": 2,
+        "title": "Black",
+        "details": "treat anxiety, weight loss, headach",
+        "img": "images/gallery/1-berry-leafs.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Chai",
+        "details": "enhance immune system, fight inflammation and cold",
+        "img": "images/gallery/1-berry-leafs.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Matcha",
+        "details": "burn belly fat, immunity booster, detoxifier",
+        "img": "images/gallery/1-berry-leafs.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Peppermint",
+        "details": "remedy for bloating, nausea, PMS, bad breath",
+        "img": "images/tea-cup-green-leafs.png"
+    },
+    {
+        "id": 6,
+        "title": "Chamomile",
+        "details": "beneficial for sleep, anxiety, headache, bloating",
+        "img": "images/tea-cup-green-leafs.png"
+    },
+    {
+        "id": 7,
+        "title": "Ginger",
+        "details": "reduce bloating, cold, upset stomach, sore throat",
+        "img": "images/tea-cup-green-leafs.png"
+    },
+    {
+        "id": 8,
+        "title": "Hibiscus",
+        "details": "best for high blood pressure, respiratory diseases",
+        "img": "images/tea-cup-green-leafs.png"
+    },
+    {
+        "id": 9,
+        "title": "Oolong",
+        "details": "promotes weight loss and booster metabolism",
+        "img": "images/tea-cup-green-leafs.png"
+    },
+    {
+        "id": 10,
+        "title": "White",
+        "details": "beneficial for stress, weight loss, detoxification",
+        "img": "images/tea-cup-green-leafs.png"
+    }
+]
