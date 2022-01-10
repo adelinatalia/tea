@@ -223,7 +223,6 @@ main {
     line-height: 2.5;
 }
 
-
 /* footer */
 footer {
     display: flex;
@@ -237,4 +236,46 @@ footer {
 
 footer p {
     font-family: 'Lobster', cursive;
+}
+
+/* responsive */
+@media only screen and (max-width: 990px) {
+    .card-top-3 {
+        width: 35vw;
+    }
+    .top-seven-cards { 
+        display: block;
+    }
+    .top-seven-cards .card { 
+        width: 90vw;
+    }
+    .card-5 { 
+        margin-left: 1rem;
+    }
+    .card-6 { 
+        margin-left: 1rem;
+    } 
+    .card:hover {
+        transform: scale(1, 1);
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .card-top-3 {
+        width: 95vw;
+    }
+    .benefits {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-top: 0;
+    }
+    .benefits-content {
+        order: 1;
+    }
+    .benefits-img {
+        order: 2;
+        width: 99vw;
+        margin: 2rem 0 0 1rem;
+        border-radius: 5px 5px 5px 5px;
+    }
 }
